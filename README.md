@@ -11,36 +11,16 @@
 	<a href="https://github.com/vincentguillet/tableplus/contributors"><img src="https://img.shields.io/github/contributors/vincentguillet/tableplus?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/vincentguillet/tableplus/refs/heads/main/assets/preview.webp"/>
-</p>
-
-## Previews
-
-<details>
-<summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/vincentguillet/tableplus/refs/heads/main/assets/latte.png"/>
-</details>
-<details>
-<summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/vincentguillet/tableplus/refs/heads/main/assets/frappe.png"/>
-</details>
-<details>
-<summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/vincentguillet/tableplus/refs/heads/main/assets/macchiato.png"/>
-</details>
-<details>
-<summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/vincentguillet/tableplus/refs/heads/main/assets/mocha.png"/>
-</details>
-
 ## Usage
 
-1. Download your preferred flavor(s) from [`themes/`](./themes/).
-2. Open TablePlus and go to the `Preferences` menu then `Fonts & Colors` tab
-3. Right-click under `Themes` and click `Import theme...`.
-4. Locate the downloaded theme file from Step 1 and select it.
-5. Enjoy!
+These JSON themes use the format introduced in TablePlus 26.10.20.
+
+1. Download a `catppuccin-*.json` flavor from [`themes/`](themes/).
+2. Open **Settings → Fonts & Themes**.
+3. Choose **Add theme… → File or folder…**, select the JSON file, then select it under **Custom**.
+
+The older `.tableplustheme` exports are replaced by these JSON themes.
+Original source: [Vincent Guillet's TablePlus port](https://github.com/vincentguillet/tableplus).
 
 ## 💝 Thanks to
 
