@@ -6,17 +6,20 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/vincentguillet/tableplus/stargazers"><img src="https://img.shields.io/github/stars/vincentguillet/tableplus?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/vincentguillet/tableplus/issues"><img src="https://img.shields.io/github/issues/vincentguillet/tableplus?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/vincentguillet/tableplus/contributors"><img src="https://img.shields.io/github/contributors/vincentguillet/tableplus?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/doorcs/tableplus/stargazers"><img src="https://img.shields.io/github/stars/doorcs/tableplus?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/doorcs/tableplus/issues"><img src="https://img.shields.io/github/issues/doorcs/tableplus?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/doorcs/tableplus/contributors"><img src="https://img.shields.io/github/contributors/doorcs/tableplus?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 ## About
 
-These themes use the JSON format introduced in TablePlus 26.10.20.
+This repository provides themes in the JSON format introduced in
+**TablePlus 26.10.20**. It builds on
+[Vincent Guillet](https://github.com/vincentguillet)'s original
+[TablePlus port](https://github.com/vincentguillet/tableplus).
 
 <p align="center">
-  <img src="assets/catppuccin-mocha.jpg" alt="Catppuccin themes in TablePlus"/>
+  <img src="assets/catppuccin-preview.webp" alt="Catppuccin themes in TablePlus"/>
 </p>
 
 ## Previews
