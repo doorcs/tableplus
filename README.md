@@ -11,15 +11,13 @@
 	<a href="https://github.com/doorcs/tableplus/contributors"><img src="https://img.shields.io/github/contributors/doorcs/tableplus?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-## About
-
-This repository provides themes in the JSON format introduced in
-**TablePlus 26.10.20**. It builds on
-[Vincent Guillet](https://github.com/vincentguillet)'s original
-[TablePlus port](https://github.com/vincentguillet/tableplus).
+<p align="center">
+  <img src="assets/catppuccin-preview.webp" alt="Four overlapping TablePlus windows in Catppuccin Latte, Frappé, Macchiato and Mocha"/>
+</p>
 
 <p align="center">
-  <img src="assets/catppuccin-preview.webp" alt="Catppuccin themes in TablePlus"/>
+A <a href="https://github.com/catppuccin/">Catppuccin</a> port for TablePlus, using
+the JSON theme format introduced in TablePlus 26.10.20.
 </p>
 
 ## Previews
@@ -44,11 +42,11 @@ This repository provides themes in the JSON format introduced in
 ## Usage
 
 1. Download a flavor below.
-2. Open **Fonts & Themes** in TablePlus settings, then choose
-   **Add theme… → File or folder…** and select the JSON file.
-3. Select the theme under **Custom**.
+2. Open `Fonts & Themes` in TablePlus settings, then choose
+   `Add theme…` → `File or folder…` and select the `JSON file`.
+3. Select the imported theme under `Custom`.
 
-To update a theme, remove its existing Custom entry before importing it again.
+To update a theme, remove its existing `Custom` entry before importing it again.
 
 | Flavor | Theme |
 | --- | --- |
@@ -59,7 +57,7 @@ To update a theme, remove its existing Custom entry before importing it again.
 
 ## 💝 Thanks to
 
-- [Vincent Guillet](https://github.com/vincentguillet) for the original TablePlus port
+- [Vincent Guillet](https://github.com/vincentguillet) for the original [TablePlus port](https://github.com/vincentguillet/tableplus)
 - [doorcs](https://github.com/doorcs) for porting to the JSON theme format introduced in TablePlus 26.10.20 and improving readability
 
 &nbsp;
