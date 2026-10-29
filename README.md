@@ -11,20 +11,53 @@
 	<a href="https://github.com/vincentguillet/tableplus/contributors"><img src="https://img.shields.io/github/contributors/vincentguillet/tableplus?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
+## About
+
+These themes use the JSON format introduced in TablePlus 26.10.20.
+
+<p align="center">
+  <img src="assets/catppuccin-mocha.jpg" alt="Catppuccin themes in TablePlus"/>
+</p>
+
+## Previews
+
+<details>
+<summary>🌻 Latte</summary>
+<img src="assets/catppuccin-latte.jpg" alt="Catppuccin Latte in TablePlus"/>
+</details>
+<details>
+<summary>🪴 Frappé</summary>
+<img src="assets/catppuccin-frappe.jpg" alt="Catppuccin Frappé in TablePlus"/>
+</details>
+<details>
+<summary>🌺 Macchiato</summary>
+<img src="assets/catppuccin-macchiato.jpg" alt="Catppuccin Macchiato in TablePlus"/>
+</details>
+<details>
+<summary>🌿 Mocha</summary>
+<img src="assets/catppuccin-mocha.jpg" alt="Catppuccin Mocha in TablePlus"/>
+</details>
+
 ## Usage
 
-These JSON themes use the format introduced in TablePlus 26.10.20.
+1. Download a flavor below.
+2. Open **Fonts & Themes** in TablePlus settings, then choose
+   **Add theme… → File or folder…** and select the JSON file.
+3. Select the theme under **Custom**.
 
-1. Download a `catppuccin-*.json` flavor from [`themes/`](themes/).
-2. Open **Settings → Fonts & Themes**.
-3. Choose **Add theme… → File or folder…**, select the JSON file, then select it under **Custom**.
+To update a theme, remove its existing Custom entry before importing it again.
 
-The older `.tableplustheme` exports are replaced by these JSON themes.
-Original source: [Vincent Guillet's TablePlus port](https://github.com/vincentguillet/tableplus).
+| Flavor | Theme |
+| --- | --- |
+| Latte | [catppuccin-latte.json](themes/catppuccin-latte.json) |
+| Frappé | [catppuccin-frappe.json](themes/catppuccin-frappe.json) |
+| Macchiato | [catppuccin-macchiato.json](themes/catppuccin-macchiato.json) |
+| Mocha | [catppuccin-mocha.json](themes/catppuccin-mocha.json) |
 
 ## 💝 Thanks to
 
-- [Vincent](https://github.com/vincentguillet)
+- [Vincent Guillet](https://github.com/vincentguillet) for the original TablePlus port
+- [doorcs](https://github.com/doorcs) for porting to the JSON theme format introduced in TablePlus 26.10.20 and improving readability
 
 &nbsp;
 
